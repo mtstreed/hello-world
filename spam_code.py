@@ -3,3 +3,4 @@ for i in range(5):
   ## Test edit
   ## Test edit 2
   ## Third test edit, this is from a separate branch instead of committing directly to the master branch
+  ## Fourth edit, made before third edit was merged to master
